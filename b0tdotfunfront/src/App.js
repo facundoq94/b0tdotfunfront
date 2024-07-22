@@ -8,7 +8,7 @@ const App = () => {
   const [tokenData, setTokenData] = useState({});
   const [tokenCount, setTokenCount] = useState(0);
 
-  const botNames = ["Orca", "GetGuD"];
+  const botNames = ["Orca", "GetGuD", "4quAnZ"];
 
   const fetchData = async () => {
     try {
