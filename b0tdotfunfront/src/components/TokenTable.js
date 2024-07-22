@@ -23,8 +23,8 @@ const TokenTable = ({ tokenData }) => {
           <th>Token CA</th>
           <th>Tokens buy</th>
           <th>Tokens sell</th>
-          <th>Total SOL buy</th>
-          <th>Total SOL sell</th>
+          <th>Total buy SOL</th>
+          <th>Total sell SOL</th>
           <th>Percentage Change</th>
           <th>Buy Count</th>
           <th>Sell Count</th>
